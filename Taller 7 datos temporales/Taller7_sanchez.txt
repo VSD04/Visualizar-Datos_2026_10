@@ -1,0 +1,4 @@
+El jupyter presente se uso para limpiar datos, como quitar espacios vacios separar fechas en algo que 
+se puede usar como trimestres, despues de limpiar la informacion usamos el data set limpio para la app.py,
+antes de correr el app.by se debe entrar a la carpeta del taller 7 luego se podra correr sin problemas,
+al correr el app.py se le dera una direccion http donde se podra ver la visualizacion.
